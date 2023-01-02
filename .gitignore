@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/dist
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# Vault
+/data/*
